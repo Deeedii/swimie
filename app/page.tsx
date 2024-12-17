@@ -7,7 +7,7 @@ export default function Home() {
 
   return (
     <main>
-      <h1>Counter: {count}</h1>
+      <h1>Counter:  {count}</h1>
       <button onClick={increment}>Increment</button>
       <button onClick={reset}>Reset</button>
     </main>
